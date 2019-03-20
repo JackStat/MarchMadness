@@ -2,4 +2,5 @@
 
 export(assignWinner)
 export(createBracket)
+export(prepareData)
 export(processSubmission)
