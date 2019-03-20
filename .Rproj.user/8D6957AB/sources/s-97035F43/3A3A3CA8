@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553122574002.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3117178209",
+    "id" : "3A3A3CA8",
+    "lastKnownWriteTime" : 1553123173,
+    "last_content_update" : 1553123173221,
+    "path" : "~/Dropbox (Snap Finance)/CollegeBasketball/MarchMadness/R/assignWinner.R",
+    "project_path" : "R/assignWinner.R",
+    "properties" : {
+        "cursorPosition" : "0,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

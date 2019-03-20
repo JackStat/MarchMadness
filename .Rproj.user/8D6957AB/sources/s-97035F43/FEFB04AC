@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553122716603.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FEFB04AC",
+    "lastKnownWriteTime" : 1553123159,
+    "last_content_update" : 1553123159851,
+    "path" : "~/Dropbox (Snap Finance)/CollegeBasketball/MarchMadness/R/createBracket.R",
+    "project_path" : "R/createBracket.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

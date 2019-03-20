@@ -1,0 +1,11 @@
+Package: MarchMadness
+Type: Package
+Title: Collection of functions for March Madness
+Version: 0.1.0
+Author: Tyler Hunt
+Maintainer: The package maintainer <thunt@snapfinance.com>
+Description: Useful functions for filling out March Madness brackets and submitting model predictions to the kaggle competition
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
