@@ -1,4 +1,9 @@
 
+Download the data from the kaggle webpage here https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament/data
+
+If the names of the files don't line up I am sorry this is code from last year and I am hoping it doesn't need to be re-written.
+
+
 ```{r}
 library(tidyverse)
 # install.packages("remotes")
